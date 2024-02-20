@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![Samik's GitHub stats](https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cpp,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
