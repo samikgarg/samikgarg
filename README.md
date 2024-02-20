@@ -20,4 +20,11 @@ Here are some ideas to get you started:
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samikgarg)](https://github.com/samikgarg/github-readme-stats)
 
+<a href="https://github.com/samikgarg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/samikgarg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cpp,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
