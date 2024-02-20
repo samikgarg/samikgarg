@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<img height=200 align="center" src="github-readme-streak-stats.herokuapp.com?username=samikgarg&show_icons=true&theme=radical" />
 <a href="https://github.com/samikgarg/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical" />
 </a>
