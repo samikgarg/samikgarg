@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=donut&theme=radical)](https://github.com/samikgarg/github-readme-stats)
 
 <a href="https://github.com/samikgarg/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical" />
 </a>
-<a href="[https://github.com/samikgarg/convoychat](https://github.com/samikgarg/github-readme-stats)">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=donut&theme=radical)](https://github.com/samikgarg/github-readme-stats)" />
+<a href="https://github.com/samikgarg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=donut&theme=radical" />
 </a>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cpp,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
