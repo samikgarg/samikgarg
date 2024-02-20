@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <br><br>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=samikgarg&theme=radical)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=samikgarg&theme=radical"/>
+  </a>
   <br>
   <a href="https://github.com/samikgarg/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical" />
@@ -28,6 +30,4 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<div align="center"
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
-</div>
