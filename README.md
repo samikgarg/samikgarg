@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 
 ![Samik's GitHub stats](https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,nextjs,py,html,css,react,cs,github,d3,java,sqlite,tensorflow,vscode,ai,eclipse,cpp&perline=16)](https://github.com/samikgarg)
