@@ -19,6 +19,7 @@ My name is Samik and I am an aspiring Computer Scientist. I am an avid app devel
 <br><br>
 
 <h2>Skills and Technologies</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
 
 
