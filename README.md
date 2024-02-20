@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<div align="center"
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
+</div>
