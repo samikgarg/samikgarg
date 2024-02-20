@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 Welcome to my GitHub Profile</h1>
 My name is Samik and I am an aspiring Computer Scientist. I am an avid app developer specialising in Android App Development, having developed several apps which I have published to the Google Play Store. I am also passionate about Artificial Intelligence and Machine Learning as I have completed the Stanford University Machine Learning Specialisation on Coursera and am currently working on integrating Generative AI into StudySnakes, an app aimed to help users study in a fun and effective way. 
 
 <br><br>
