@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cpp,idea,nextjs,opencv,github,java,sqlite,tensorflow,vscode,eclipse,tailwind,vercel,xd,cpp&perline=16)](https://github.com/samikgarg)
