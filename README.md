@@ -3,7 +3,7 @@ My name is Samik and I am an aspiring Computer Scientist. I am an avid app devel
 
 <br><br>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://streak-stats.demolab.com/?user=samikgarg&theme=radical"/>
   </a>
@@ -14,7 +14,7 @@ My name is Samik and I am an aspiring Computer Scientist. I am an avid app devel
   <a href="https://github.com/samikgarg/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=compact&theme=radical" />
   </a>
-</p>
+</div>
 
 <br><br>
 
