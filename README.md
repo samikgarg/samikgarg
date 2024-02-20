@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/samikgarg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=donut&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=compact&theme=radical" />
 </a>
 
 <br><br>
