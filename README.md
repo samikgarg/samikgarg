@@ -42,8 +42,7 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samikgarg"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/samikgarg"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+  <a href="linkedin.com/in/samik-garg-674692224/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="mailto:samik.garg.zebra@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+  <a href="https://www.instagram.com/samazebra/"><img src="https://img.icons8.com/fluency/48/000000/instagram.png"/></a>
 </p>
