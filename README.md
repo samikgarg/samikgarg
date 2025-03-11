@@ -10,7 +10,7 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/samikgarg/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
