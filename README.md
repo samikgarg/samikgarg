@@ -8,10 +8,6 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 <h2 align="center">🔥 GitHub Stats & Streak</h2>
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=samikgarg&theme=radical&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikgarg&theme=radical&hide_border=true" height="180em"/>
-  </a>
-  <br>
   <a href="https://github.com/samikgarg/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical&hide_border=true" height="180em"/>
   </a>
