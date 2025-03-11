@@ -36,3 +36,13 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
     <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,kotlin,regex,opencv,github,java,sqlite,tensorflow,sklearn,svg,vscode,eclipse,tailwind,bootstrap,swift,firebase,vercel,mysql,replit,xd,cpp&perline=16" />
   </a>
 </p>
+
+---
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/samikgarg">
+    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,kotlin,regex,opencv,github,java,sqlite,tensorflow,sklearn,svg,vscode,eclipse,tailwind,bootstrap,swift,firebase,vercel,mysql,replit,xd,cpp&perline=16" />
+  </a>
+</p>
