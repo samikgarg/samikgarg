@@ -3,9 +3,13 @@
 <h2 align="center">✨ About Me</h2>
 My name is <b>Samik</b>, and I am an aspiring <b>Computer Scientist</b>. I specialize in <b>Android App Development</b>, having published multiple apps on the Google Play Store. I'm also passionate about <b>Artificial Intelligence and Machine Learning</b>, having completed the <b>Stanford Machine Learning Specialization on Coursera</b>. Currently, I’m integrating <b>Generative AI</b> into <b>StudySnakes</b>, an educational app designed to make studying both fun and effective.
 
+<p>
+
 - 🔭 I’m currently working on <a href="https://github.com/samikgarg/StudySnakes">StudySnakes</a>, an Android App to make learning fun and accessible through gamification!
 - 🌱 I’m currently learning Machine Learning and Unity Game Development
 - 📫 How to reach me: samik.garg.zebra@gmail.com
+
+</p>
 
 ---
 
