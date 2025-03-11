@@ -29,12 +29,8 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 ---
 
 <h2 align="center">⚡ Skills and Technologies</h2>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,kotlin,regex,opencv,github,java,sqlite,tensorflow,sklearn,svg,vscode,eclipse,tailwind,bootstrap,swift,firebase,vercel,mysql,replit,xd,cpp&perline=16)](https://github.com/samikgarg)
 
-<p align="center">
-  <a href="https://github.com/samikgarg">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,kotlin,regex,opencv,github,java,sqlite,tensorflow,sklearn,svg,vscode,eclipse,tailwind,bootstrap,swift,firebase,vercel,mysql,replit,xd,cpp&perline=8" />
-  </a>
-</p>
 
 ---
 
