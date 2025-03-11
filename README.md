@@ -7,7 +7,7 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 
 <h2 align="center">🔥 GitHub Stats & Streak</h2>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SamikGarg)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=samikgarg&theme=radical&hide_border=true)](https://git.io/streak-stats)
   <br><br>
   <a href="https://github.com/samikgarg/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical&hide_border=true" />
