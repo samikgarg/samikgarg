@@ -42,16 +42,16 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/samikgarg" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/samikgarg">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>
-  <a href="https://github.com/samikgarg" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/samikgarg">
+    <img src="https://skillicons.dev/icons?i=github" width="40px" />
   </a>
   <a href="mailto:samik.garg.zebra@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40px" />
   </a>
 </p>
