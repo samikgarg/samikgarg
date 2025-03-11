@@ -1,21 +1,11 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
-
 ### About Me
 My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize in **Android App Development**, having published multiple apps on the Google Play Store. I'm also passionate about **Artificial Intelligence and Machine Learning**, having completed the **Stanford Machine Learning Specialization on Coursera**. Currently, I’m integrating **Generative AI** into **StudySnakes**, an educational app designed to make studying both fun and effective.
 
 ---
 
 <h2 align="center">🔥 GitHub Stats & Streak</h2>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=samikgarg&theme=radical&hide_border=true"/>
-  </a>
-  <br><br>
   <a href="https://github.com/samikgarg/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical&hide_border=true" />
   </a>
