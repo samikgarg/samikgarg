@@ -41,20 +41,13 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 
 <h2 align="center">🤝 Connect with Me</h2>
 
+## Connect with Me 📫
 <p align="center">
-  <a href="https://linkedin.com/in/samikgarg" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:samik.garg.zebra@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/>
-  </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank"/>
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode"/>
-  </a>
+  <a href="https://linkedin.com/in/samikgarg"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/samikgarg"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+  <a href="mailto:samik.garg.zebra@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href="https://www.hackerrank.com/yourusername"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/></a>
 </p>
