@@ -1,6 +1,6 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub Profile</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Samik</h1>
 
-### About Me
+<h2 align="center">✨ About Me</h2>
 My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize in **Android App Development**, having published multiple apps on the Google Play Store. I'm also passionate about **Artificial Intelligence and Machine Learning**, having completed the **Stanford Machine Learning Specialization on Coursera**. Currently, I’m integrating **Generative AI** into **StudySnakes**, an educational app designed to make studying both fun and effective.
 
 ---
