@@ -6,14 +6,17 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 ---
 
 <h2 align="center">🔥 GitHub Stats & Streak</h2>
+
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=samikgarg&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=samikgarg&theme=radical&hide_border=true" height="180em"/>
+  </a>
+  <br>
   <a href="https://github.com/samikgarg/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=samikgarg&show_icons=true&theme=radical&hide_border=true" height="180em"/>
   </a>
   <a href="https://github.com/samikgarg/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikgarg&layout=compact&theme=radical&hide_border=true" height="180em"/>
   </a>
 </p>
 
@@ -30,9 +33,6 @@ My name is **Samik**, and I am an aspiring **Computer Scientist**. I specialize 
 
 <p align="center">
   <a href="https://github.com/samikgarg">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,kotlin,regex,opencv,github,java,sqlite,tensorflow,sklearn,svg,vscode,eclipse,tailwind,bootstrap,swift,firebase,vercel,mysql,replit,xd,cpp&perline=20" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,atom,nodejs,js,nextjs,py,html,css,react,cs,idea,kotlin,regex,opencv,github,java,sqlite,tensorflow,sklearn,svg,vscode,eclipse,tailwind,bootstrap,swift,firebase,vercel,mysql,replit,xd,cpp&perline=14" />
   </a>
 </p>
-
----
-
